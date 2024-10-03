@@ -3,4 +3,3 @@ function generateRandomNumber() {
     document.getElementById("randomNumber").innerHTML = randomNumber;
 }
 
-alert("Hello, World!");
